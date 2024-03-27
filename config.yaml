@@ -14,26 +14,26 @@ carpentry: 'incubator'
 title: 'Best Practices in Training and Curriculum Development'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: '2024-03-26'
+created: 2024-03-26
 
 # Comma-separated list of keywords for the lesson
-keywords: 'training, data, lesson, The Carpentries'
+keywords: 'training, data, lesson, The Carpentries' 
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
-life_cycle: 'pre-alpha'
+life_cycle: 'pre-alpha' 
 
-# License of the lesson materials (recommended CC-BY 4.0)
+# License of the lesson
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/bertozzivill/train-the-trainers'
+source: 'https://github.com/bertozzivill/train-the-trainers' 
 
 # Default branch of your lesson
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'amelia.bertozzi-villa@gatesfoundation.org'
+contact: 'amelia.bertozzi-villa@gatesfoundation.org' 
 
 # Navigation ------------------------------------------------
 #
@@ -60,7 +60,6 @@ contact: 'amelia.bertozzi-villa@gatesfoundation.org'
 # Order of episodes in your lesson
 episodes: 
 - introduction.Rmd
-- next-episode.Rmd
 
 # Information for Learners
 learners: 
