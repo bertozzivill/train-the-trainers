@@ -1,5 +1,5 @@
 ---
-title: 'Introduction: What Makes a Good Teacher?'
+title: 'A Growth Mindset for Learners and Instructors'
 teaching: 10
 exercises: 2
 ---

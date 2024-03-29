@@ -1,5 +1,5 @@
 ---
-title: 'Introduction: What Makes a Good Teacher?'
+title: 'Crafting Lesson Content'
 teaching: 10
 exercises: 2
 ---
