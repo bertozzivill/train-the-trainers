@@ -17,3 +17,6 @@ StripTrailingWhitespace: Yes
 LineEndingConversion: Posix
 
 BuildType: Website
+
+MarkdownWrap: Column
+MarkdownWrapAtColumn: 72
