@@ -5,71 +5,48 @@ exercises: 2
 ---
 
 ::: questions
--   How do you write a lesson using R Markdown and `{sandpaper}`?
+-   How do you identify an effective instructor?
 :::
 
 ::: objectives
--   Explain how to use markdown with the new lesson template
--   Demonstrate how to include pieces of code, figures, and nested challenge blocks
-:::
-
-## Introduction
-
-This is a lesson created via The Carpentries Workbench. It is written in [Pandoc-flavored Markdown][pandoc] for static files (with extension `.md`) and [R Markdown][r-markdown] for dynamic files that can render code into output (with extension `.Rmd`). Please refer to the [Introduction to The Carpentries Workbench][carpentries-workbench] for full documentation.
-
-What you need to know is that there are three sections required for a valid Carpentries lesson template:
-
-1.  `questions` are displayed at the beginning of the episode to prime the learner for the content.
-2.  `objectives` are the learning objectives for an episode displayed with the questions.
-3.  `keypoints` are displayed at the end of the episode to reinforce the objectives.
-
-::: instructor
-Inline instructor notes can help inform instructors of timing challenges associated with the lessons. They appear in the "Instructor View"
+-   Identify your own subjective view on the qualities of effective and ineffective instructors
+-   Consider which of these qualities were the same vs different across the group
 :::
 
 ::: challenge
-## Challenge 1: Can you do it?
+## Exercise: Best Teacher Ever
 
-What is the output of this command?
-
-``` r
-paste("This", "new", "lesson", "looks", "good")
-```
-
-::: solution
-## Output
-
-``` output
-[1] "This new lesson looks good"
-```
+Spend a minute or two thinking about the teacher who taught you the most over your whole life. Write down one specific positive memory you have of that person. What did they say and do? How did they make you feel? What did you learn? Why was it a good experience? 
 :::
 
-## Challenge 2: how do you nest solutions within challenge blocks?
 
-::: solution
-You can add a line with at least three colons and a `solution` tag.
+## Debrief
+::: instructor
+Give students five minutes to think and write, then spend ten minutes going over answers. Make a note of what experiences were shared vs which ones were unique.
 :::
-:::
 
-## Figures
+It's likely that your favorite teacher:
+- was well-prepared to teach their subject;
+- shared a clear pathway for what and how they wanted you to learn;
+- taught a subject that was interesting or useful for you;
+- made you feel actively engaged in the learning process;
+- made you feel challenged but not overwhelmed;
+- gave you space to ask questions or challenge them
 
-You can use pandoc markdown for static figures with the following syntax:
+- made you feel safe;
+- didn't shame you for lack of knowledge;
+- was responsive to your needs;
+- wasn't condescending;
+- assumed that you had potential;
+- acknowledged your growth;
+- provided kind and useful feedback;
 
-`![optional caption that appears below the figure](figure url){alt='alt text for accessibility purposes'}`
 
-![Blue Carpentries hex person logo with no text.](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg)
+Our goal over the next two weeks is to equip you with foundational knowledge and practice about learning and teaching. We hope that these first steps will set you up well to grow as an instructor in the years to come.
 
-## Math
-
-One of our episodes contains $\LaTeX$ equations when describing how to create dynamic reports with {knitr}, so we now use mathjax to describe this:
-
-`$\alpha = \dfrac{1}{(1 - \beta)^2}$` becomes: $\alpha = \dfrac{1}{(1 - \beta)^2}$
-
-Cool, right?
 
 ::: keypoints
--   Use `.md` files for episodes when you want static content
--   Use `.Rmd` files for episodes when you need to generate output
--   Run `sandpaper::check_lesson()` to identify any issues with your lesson
--   Run `sandpaper::build_lesson()` to preview your lesson locally
+-   As an instructor, you are responsible for creating a safe and engaging learning environment for course participants
+-   There are many different types of great instructor, but some features are shared
+-   The coming weeks will teach you foundational teaching skills, while giving you space to practice and find your own educational voice.
 :::
