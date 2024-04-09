@@ -2,67 +2,47 @@
 title: Setup
 ---
 
-:::::::::::::::::::::::::::::::::::::: questions 
-
-- How do you write a lesson using R Markdown and `{sandpaper}`?
-
-::::::::::::::::::::::::::::::::::::::::::::::::
-
-::::::::::::::::::::::::::::::::::::: objectives
-
-- Explain how to use markdown with the new lesson template
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
-
-::::::::::::::::::::::::::::::::::::::::::::::::
-
-
-FIXME: Setup instructions live in this document. Please specify the tools and
-the data sets the Learner needs to have installed.
+FIXME: Setup instructions live in this document. Please specify the
+tools and the data sets the Learner needs to have installed.
 
 ## Data Sets
 
+```{=html}
 <!--
 FIXME: place any data you want learners to use in `episodes/data` and then use
        a relative link ( [data zip file](data/lesson-data.zip) ) to provide a
        link to it, replacing the example.com link.
 -->
-Download the [data zip file](https://example.com/FIXME) and unzip it to your Desktop
+```
+Download the [data zip file](https://example.com/FIXME) and unzip it to
+your Desktop
 
 ## Software Setup
 
-::::::::::::::::::::::::::::::::::::::: discussion
-
+::: discussion
 ### Details
 
-Setup for different systems can be presented in dropdown menus via a `spoiler`
-tag. They will join to this discussion block, so you can give a general overview
-of the software used in this lesson here and fill out the individual operating
-systems (and potentially add more, e.g. online setup) in the solutions blocks.
+Setup for different systems can be presented in dropdown menus via a
+`spoiler` tag. They will join to this discussion block, so you can give
+a general overview of the software used in this lesson here and fill out
+the individual operating systems (and potentially add more, e.g. online
+setup) in the solutions blocks.
+:::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::: spoiler
-
+::: spoiler
 ### Windows
 
 Use PuTTY
+:::
 
-::::::::::::::::::::::::
-
-:::::::::::::::: spoiler
-
+::: spoiler
 ### MacOS
 
 Use Terminal.app
+:::
 
-::::::::::::::::::::::::
-
-
-:::::::::::::::: spoiler
-
+::: spoiler
 ### Linux
 
 Use Terminal
-
-::::::::::::::::::::::::
-
+:::
