@@ -4,6 +4,7 @@ site/*
 !site/README.md
 
 # History files
+*.DS_Store
 .Rhistory
 .Rapp.history
 
