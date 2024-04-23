@@ -58,31 +58,32 @@ contact: 'amelia.bertozzi-villa@gatesfoundation.org'
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes: 
-- introduction.md
-- growth-mindset.md
-- lesson-design.md
-- target-audience.md
-- skill-with-practice.md
-- creating-objectives.md
-- designing-assessments.md
-- crafting-content.md
-- equity-inclusion-accessibility.md
+episodes:
+- introduction.md  # ABV
+- growth-mindset.md # ABV
+- lesson-design.md # lesson-dev
+- target-audience.md # lesson-dev
+- skill-with-practice.md # instructor
+- creating-objectives.md # lesson-dev
+- designing-assessments.md # lesson-dev
+- crafting-content.md # ABV
+- equity-inclusion-accessibility.md # instructor
 - finish-week-1.md
-- expertise-instruction.md
-- motivation.md
-- skill-with-feedback.md
-- live-coding.md
-- preparing-to-teach.md
+- expertise-instruction.md # instructor
+- motivation.md # instructor
+- skill-with-feedback.md # instructor
+- live-coding.md # instructor
+- preparing-to-teach.md # lesson-dev
+
 
 # Information for Learners
-learners: 
+learners:
 
 # Information for Instructors
-instructors: 
+instructors:
 
 # Learner Profiles
-profiles: 
+profiles:
 
 # Customisation ---------------------------------------------
 #
