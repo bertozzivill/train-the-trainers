@@ -22,6 +22,8 @@ exercises: 2
 
 ## How do we learn?
 
+### Mistakes are good, shame is bad
+
 ::::::::::::::::::::::::::::::::::::: challenge 
 
 ## Exercise: Giving and Receiving Feedback

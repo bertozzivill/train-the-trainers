@@ -1,6 +1,5 @@
 ---
 title: Equity, Inclusion, and Accessibility
-block: Creating a Positive Learning Environment
 teaching: 20
 exercises: 20
 ---
