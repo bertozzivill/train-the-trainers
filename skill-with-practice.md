@@ -1,6 +1,5 @@
 ---
 title: Building Skill With Practice
-block: How Learning Works
 teaching: 30
 exercises: 30
 ---

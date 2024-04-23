@@ -1,6 +1,5 @@
 ---
 title: Expertise and Instruction
-block: How Learning Works
 teaching: 20
 exercises: 25
 ---

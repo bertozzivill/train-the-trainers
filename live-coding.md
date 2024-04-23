@@ -1,7 +1,5 @@
 ---
-start: no
 title: Live Coding is a Skill
-block: Building Teaching Skill
 teaching: 20
 exercises: 45
 ---

@@ -23,11 +23,11 @@ exercises: 2
 
 ## Types of Lesson Content
 
-# Live Coding
+### Live Coding
 
-# Online
+### Online
 
-# Slides & Lecture
+### Slides & Lecture
 
 
 ::::::::::::::::::::::::::::::::::::: keypoints 

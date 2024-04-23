@@ -1,6 +1,5 @@
 ---
 title: Building Skill With Feedback
-block: Building Teaching Skill
 teaching: 10
 exercises: 10
 ---
