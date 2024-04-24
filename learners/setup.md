@@ -2,8 +2,16 @@
 title: Setup
 ---
 
-FIXME: Setup instructions live in this document. Please specify the
-tools and the data sets the Learner needs to have installed.
+## Software Setup
+
+### R and RStudio
+
+If you have not already done so, please follow the [R setup instructions](https://bertozzivill.github.io/r-install-instructions) to download or update your R and RStudio. 
+
+
+### Reticulate for RStudio
+
+We will also need to download a few packages so that we can run Python from RStudio. To make this possible, install the `reticulate` package into your RStudio.
 
 ## Data Sets
 
@@ -15,34 +23,14 @@ FIXME: place any data you want learners to use in `episodes/data` and then use
 -->
 ```
 Download the [data zip file](https://example.com/FIXME) and unzip it to
-your Desktop
+your Desktop.
 
-## Software Setup
 
-::: discussion
-### Details
 
-Setup for different systems can be presented in dropdown menus via a
-`spoiler` tag. They will join to this discussion block, so you can give
-a general overview of the software used in this lesson here and fill out
-the individual operating systems (and potentially add more, e.g. online
-setup) in the solutions blocks.
-:::
+## Acknowledgment
 
-::: spoiler
-### Windows
-
-Use PuTTY
-:::
-
-::: spoiler
-### MacOS
-
-Use Terminal.app
-:::
-
-::: spoiler
-### Linux
-
-Use Terminal
-:::
+This lesson was built using [The Carpentries
+Workbench](https://carpentries.github.io/sandpaper-docs) by Amelia
+Bertozzi-Villa and Punam Amratia. Much material was adapted from the
+Carpentries courses Collaborative Lesson Development Training and
+Instructor Training, while other material is original.
