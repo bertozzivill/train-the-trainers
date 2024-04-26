@@ -22,6 +22,8 @@ Over the course of the workshop, when you see a section labeled **Group Work**, 
 
 On Thursday and Friday of next week, each group will take us through their lesson. You will have **30 minutes total** to introduce your topic, teach it with live coding, and deliver a brief assessment. Afterwards we will have 10 minutes of feedback before moving on to the next group. This is a short amount of time, so the topic of your curriculum must be very concise. We will work together to pick an appropriate topic for each group. 
 
+## Todo: move the below to a section about tech troubles
+
 ## Running Python from RStudio
 
 This is a mixed course, with participants who are most comfortable in either Python or R. In order to run R scripts, everyone should have downloaded and installed R and RStudio yesterday. And luckily, RStudio can also function as a development environment for Python, so we shouldn't need to download Python separately. What we will need to do is install the R package that will help us run Python, as well as a few Python packages.
