@@ -11,35 +11,49 @@ able to join remotely.
 
 ### Schedule (Subject to Change)
 
-+------------------+----------------------------+
-| Day              | Subjects                   |
-+==================+============================+
-| Monday April 29  | Welcome and Introduction   |
-|                  |                            |
-|                  | What Makes a Good Teacher? |
-|                  |                            |
-|                  | Intro to Growth Mindsets   |
-+------------------+----------------------------+
-| Tuesday April 30 |                            |
-+------------------+----------------------------+
-| Wednesday May 1  | Holiday                    |
-+------------------+----------------------------+
-| Thursday May 2   |                            |
-+------------------+----------------------------+
-| Friday May 3     |                            |
-+------------------+----------------------------+
-|                  |                            |
-+------------------+----------------------------+
-| Monday May 6     |                            |
-+------------------+----------------------------+
-| Tuesday May 7    |                            |
-+------------------+----------------------------+
-| Wednesday May 8  |                            |
-+------------------+----------------------------+
-| Thursday May 9   | Live Coding Sessions       |
-+------------------+----------------------------+
-| Friday May 10    | Live Coding Sessions       |
-+------------------+----------------------------+
++-----------------+---------------------------+
+| Day             | Subjects                  |
++=================+===========================+
+| Monday April 29 | Welcome and Introduction  |
+|                 |                           |
+|                 | What Makes a Good         |
+|                 | Teacher?                  |
+|                 |                           |
+|                 | Intro to Growth Mindsets  |
++-----------------+---------------------------+
+| Tuesday April   | Lesson Design             |
+| 30              |                           |
+|                 | Finding your Target       |
+|                 | Audience                  |
+|                 |                           |
+|                 | Creating Objectives       |
++-----------------+---------------------------+
+| Wednesday May 1 | Holiday                   |
++-----------------+---------------------------+
+| Thursday May 2  | Skill and Practice        |
+|                 |                           |
+|                 | Designing Assessments     |
++-----------------+---------------------------+
+| Friday May 3    | Crafting Content          |
+|                 |                           |
+|                 | Equity, Inclusion, &      |
+|                 | Accessibility             |
++-----------------+---------------------------+
+|                 |                           |
++-----------------+---------------------------+
+| Monday May 6    | Expertise & Instruction   |
+|                 |                           |
+|                 | Motivation & Demotivation |
++-----------------+---------------------------+
+| Tuesday May 7   | Building Skill with       |
+|                 | Feedback                  |
++-----------------+---------------------------+
+| Wednesday May 8 | How to Code Live          |
++-----------------+---------------------------+
+| Thursday May 9  | Live Coding Sessions      |
++-----------------+---------------------------+
+| Friday May 10   | Live Coding Sessions      |
++-----------------+---------------------------+
 
 ### Group Work for Live Coding
 
@@ -109,20 +123,19 @@ Before joining this training, participants should:
 -   have some familiarity with programming in Python or R, especially
     making plots in either language.
 
-
-
 ## Software Setup
 
 ### R and RStudio
 
-If you have not already done so, please follow the [R setup instructions](https://bertozzivill.github.io/r-install-instructions) to download or update your R and RStudio. 
-
+If you have not already done so, please follow the [R setup
+instructions](https://bertozzivill.github.io/r-install-instructions) to
+download or update your R and RStudio.
 
 ### Reticulate for RStudio
 
-We will also need to download a few packages so that we can run Python from RStudio. To make this possible, install the `reticulate` package into your RStudio.
-
-
+We will also need to download a few packages so that we can run Python
+from RStudio. To make this possible, install the `reticulate` package
+into your RStudio.
 
 ## Acknowledgment
 
