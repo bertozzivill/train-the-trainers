@@ -167,6 +167,56 @@ This exercise should take about 25 minutes.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+
+## Tech Setup Challenge-- Running Python from Rstudio
+note: will turn the below into a challenge to help students understand how to guarantee effective software setup.
+
+This is a mixed course, with participants who are most comfortable in either Python or R. In order to run R scripts, everyone should have downloaded and installed R and RStudio yesterday. And luckily, RStudio can also function as a development environment for Python, so we shouldn't need to download Python separately. What we will need to do is install the R package that will help us run Python, as well as a few Python packages.
+
+### `reticulate`
+You can run Python code from an R session using an R package called `reticulate`. Make sure you have `reticulate` installed, either using the GUI or by running `install.packages("reticulate")` from the RStudio console. 
+
+Now, open a new R script and name it "install_python_packages.R". On the first line, type `library(reticulate)`.
+
+### Python packages
+Like R, Python has a robust system of libraries that need to be installed and loaded before they can be used. We can use our R script to install these packages using the `reticulate` function `py_install()`.
+
+On a lower line of your R script, type:
+
+```
+py_install(c("pandas", "seaborn", "matplotlib"))
+```
+
+This should install the most commonly used data science and plotting packages used in Python. If you ever have trouble with a package loading, or you need to install a new package, we can come back and rerun or modify this script. 
+
+::::: callout
+
+## Note for Python Users
+
+Even if you are a Python user who already has these packages installed, you will need to install them again using py_install. This is because `reticulate` creates a virtual environment to run Python from R, so it doesn't interfere with the instance of Python running on your main machine.
+:::::
+
+
+### Testing Your Installation
+
+Now, open a new file, but instead of opening an R script, scroll down and create a Python script. Name it "test_install.py". In the file, type the following code:
+
+```
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+print("Hello world")
+```
+
+Raise your hand if you run into any errors and we will work through them with you.
+
+
+
+
+
+
+
 [live-coding-bad]: https://youtu.be/bXxBeNkKmJE
 [live-coding-good]: https://youtu.be/SkPmwe_WjeY
 [live-coding-tips-paper]: https://doi.org/10.1371/journal.pcbi.1008090

@@ -13,6 +13,8 @@ exercises: 2
 -   Understand the expectations for the end-of-workshop live coding sessions.
 :::
 
+(todo: remove this page, sandpaper isn't letting me delete files and still render the site)
+
 ## Group Work Details
 
 This workshop will teach you how to design and execute on a curriculum from start to finish. Over the course of the coming week, you will learn how to identify your target audience, determine what content to teach, and create an assessment-based curriculum for that content. Because much of our work involves programming, you will also learn how to effectively teach using the live coding method. 

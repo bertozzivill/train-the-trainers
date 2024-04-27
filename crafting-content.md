@@ -19,6 +19,9 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+(this is where part 3 of the cycle shows up. Take notes from preparing.md)
+
+
 ## Now What?
 
 ## Types of Lesson Content

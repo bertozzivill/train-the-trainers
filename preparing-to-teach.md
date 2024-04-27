@@ -23,6 +23,8 @@ After completing this episode, participants should be able to...
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+(todo: part 5 after this about evaluating curriculum)
+
 Note: This content was originally published in the Carpentries Collaborative Lesson Development Training
 
 ![
