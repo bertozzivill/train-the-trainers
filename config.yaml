@@ -60,12 +60,11 @@ contact: 'amelia.bertozzi-villa@gatesfoundation.org'
 # Order of episodes in your lesson
 episodes:
 - introduction.md  # ABV
-- final_project.md # ABV
 - growth-mindset.md # ABV
 - lesson-design.md # lesson-dev
 - target-audience.md # lesson-dev
-- skill-with-practice.md # instructor
 - creating-objectives.md # lesson-dev
+- skill-with-practice.md # instructor
 - designing-assessments.md # lesson-dev
 - crafting-content.md # ABV
 - equity-inclusion-accessibility.md # instructor
@@ -73,6 +72,7 @@ episodes:
 - expertise-instruction.md # instructor
 - motivation.md # instructor
 - skill-with-feedback.md # instructor
+- final_project.md
 - live-coding.md # instructor
 - preparing-to-teach.md # lesson-dev
 
