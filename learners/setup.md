@@ -4,61 +4,68 @@ title: Setup
 
 ## Logistics
 
-We will meet every day from April 29th to May 10th, excluding the holiday
-on May 1st. Class will run from 9am to 1pm every day. We will meet at
-dLab Kilimanjaro Room, block D. 
+We will meet every day from April 29th to May 10th, excluding the
+holiday on May 1st. Class will run from 9am to 1pm every day. We will
+meet at dLab Kilimanjaro Room, block D.
 
-Participants not in Dar should also be
-able to join remotely via this [zoom link](https://zoom.us/j/98559482416?pwd=UzA3ZVFJNS9ZRnFYamhhUW1RVG5QUT09){target="_blank"}. The meeting ID is 985 5948 2416, and the password is 213509. Sessions will be recorded if you are unable to join in-person or online.
+Participants not in Dar should also be able to join remotely via this
+[zoom
+link](https://zoom.us/j/98559482416?pwd=UzA3ZVFJNS9ZRnFYamhhUW1RVG5QUT09){target="_blank"}.
+The meeting ID is 985 5948 2416, and the password is 213509. Sessions
+will be recorded if you are unable to join in-person or online.
 
 ### Pre-Course Survey
-Before we begin, please take a moment to fill out the [pre-course survey](https://forms.gle/1eyZ96SjfWD9SLvc9){target="_blank"}.
+
+Before we begin, please take a moment to fill out the [pre-course
+survey](https://forms.gle/1eyZ96SjfWD9SLvc9){target="_blank"}.
 
 ### Schedule (Subject to Change)
 
-+-----------------+---------------------------+
-| Day             | Subjects                  |
-+=================+===========================+
-| Monday April 29 | Welcome and Introduction  |
-|                 |                           |
-|                 | What Makes a Good         |
-|                 | Teacher?                  |
-|                 |                           |
-|                 | Intro to Growth Mindsets  |
-+-----------------+---------------------------+
-| Tuesday April   | Lesson Design             |
-| 30              |                           |
-|                 | Finding your Target       |
-|                 | Audience                  |
-|                 |                           |
-|                 | Creating Objectives       |
-+-----------------+---------------------------+
-| Wednesday May 1 | Holiday                   |
-+-----------------+---------------------------+
-| Thursday May 2  | Skill and Practice        |
-|                 |                           |
-|                 | Designing Assessments     |
-+-----------------+---------------------------+
-| Friday May 3    | Crafting Content          |
-|                 |                           |
-|                 | Equity, Inclusion, &      |
-|                 | Accessibility             |
-+-----------------+---------------------------+
-|                 |                           |
-+-----------------+---------------------------+
-| Monday May 6    | Expertise & Instruction   |
-|                 |                           |
-|                 | Motivation & Demotivation |
-+-----------------+---------------------------+
-| Tuesday May 7   | Building Skill with       |
-|                 | Feedback                  |
-+-----------------+---------------------------+
-| Wednesday May 8 | How to Code Live          |
-+-----------------+---------------------------+
-| Thursday May 9  | Live Coding Sessions      |
-+-----------------+---------------------------+
-| Friday May 10   | Live Coding Sessions      |
-+-----------------+---------------------------+
++-----------------+--------------------------+-------------------------+
+| Day             | Subjects                 | Amelia Afternoon        |
+|                 |                          | Location                |
++=================+==========================+=========================+
+| Monday April 29 | Welcome and Introduction | dLab                    |
+|                 |                          |                         |
+|                 | What Makes a Good        |                         |
+|                 | Teacher?                 |                         |
+|                 |                          |                         |
+|                 | Intro to Growth Mindsets |                         |
++-----------------+--------------------------+-------------------------+
+| Tuesday April   | Lesson Design            | IHI                     |
+| 30              |                          |                         |
+|                 | Finding your Target      |                         |
+|                 | Audience                 |                         |
+|                 |                          |                         |
+|                 | Creating Objectives      |                         |
++-----------------+--------------------------+-------------------------+
+| Wednesday May 1 | Holiday                  |                         |
++-----------------+--------------------------+-------------------------+
+| Thursday May 2  | Skill and Practice       | dLab                    |
+|                 |                          |                         |
+|                 | Designing Assessments    |                         |
++-----------------+--------------------------+-------------------------+
+| Friday May 3    | Crafting Content         | IHI                     |
+|                 |                          |                         |
+|                 | Equity, Inclusion, &     |                         |
+|                 | Accessibility            |                         |
++-----------------+--------------------------+-------------------------+
+|                 |                          |                         |
++-----------------+--------------------------+-------------------------+
+| Monday May 6    | Expertise & Instruction  |                         |
+|                 |                          |                         |
+|                 | Motivation &             |                         |
+|                 | Demotivation             |                         |
++-----------------+--------------------------+-------------------------+
+| Tuesday May 7   | Building Skill with      |                         |
+|                 | Feedback                 |                         |
++-----------------+--------------------------+-------------------------+
+| Wednesday May 8 | How to Code Live         |                         |
++-----------------+--------------------------+-------------------------+
+| Thursday May 9  | Live Coding Sessions     |                         |
++-----------------+--------------------------+-------------------------+
+| Friday May 10   | Live Coding Sessions     |                         |
++-----------------+--------------------------+-------------------------+
 
 ### Group Work for Live Coding
 
@@ -100,23 +107,21 @@ appropriate topic for each group.
 
 ### Code of Conduct
 
-To make clear what is expected,
-everyone participating in The Carpentries activities is required to abide by our
-[Code of Conduct][coc].
-Any form of behaviour to exclude, intimidate,
-or cause discomfort is a violation of the Code of Conduct.
-In order to foster a positive and professional learning environment we encourage you to:
+To make clear what is expected, everyone participating in The
+Carpentries activities is required to abide by our [Code of
+Conduct][coc]. Any form of behaviour to exclude, intimidate, or cause
+discomfort is a violation of the Code of Conduct. In order to foster a
+positive and professional learning environment we encourage you to:
 
-* Use welcoming and inclusive language
-* Be respectful of different viewpoints and experiences
-* Gracefully accept constructive criticism
-* Focus on what is best for the community
-* Show courtesy and respect towards other community members
+-   Use welcoming and inclusive language
+-   Be respectful of different viewpoints and experiences
+-   Gracefully accept constructive criticism
+-   Focus on what is best for the community
+-   Show courtesy and respect towards other community members
 
-If you believe someone is violating the Code of Conduct,
-we ask that you report it to The Carpentries Code of Conduct Committee
-by completing [this form](https://goo.gl/forms/KoUfO53Za3apOuOK2).
-
+If you believe someone is violating the Code of Conduct, we ask that you
+report it to The Carpentries Code of Conduct Committee by completing
+[this form](https://goo.gl/forms/KoUfO53Za3apOuOK2).
 
 ## Learning Objectives
 
@@ -154,7 +159,8 @@ into your RStudio.
 
 ## Acknowledgment
 
-This lesson was built using [The Carpentries Workbench][carpentries-workbench] by Amelia
-Bertozzi-Villa and Punam Amratia. Much material was adapted from the
-Carpentries courses [Collaborative Lesson Development Training][lesson-dev] and
-[Instructor Training][instructor-training], while other material is original.
+This lesson was built using [The Carpentries
+Workbench][carpentries-workbench] by Amelia Bertozzi-Villa and Punam
+Amratia. Much material was adapted from the Carpentries courses
+[Collaborative Lesson Development Training][lesson-dev] and [Instructor
+Training][instructor-training], while other material is original.
