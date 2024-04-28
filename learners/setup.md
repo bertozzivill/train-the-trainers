@@ -6,11 +6,13 @@ title: Setup
 
 We will meet every day from April 29th to May 10th, excluding the holiday
 on May 1st. Class will run from 9am to 1pm every day. We will meet at
-dLab Kilimanjaro Room, block D. Participants not in Dar should also be
-able to join remotely.
+dLab Kilimanjaro Room, block D. 
+
+Participants not in Dar should also be
+able to join remotely via this [zoom link](https://zoom.us/j/98559482416?pwd=UzA3ZVFJNS9ZRnFYamhhUW1RVG5QUT09). The meeting ID is 985 5948 2416, and the password is 213509. Sessions will be recorded if you are unable to join in-person or online.
 
 ### Pre-Course Survey
-Before we begin, please take a moment to fill out the (pre-course survey)[https://forms.gle/1eyZ96SjfWD9SLvc9].
+Before we begin, please take a moment to fill out the [pre-course survey](https://forms.gle/1eyZ96SjfWD9SLvc9).
 
 ### Schedule (Subject to Change)
 
