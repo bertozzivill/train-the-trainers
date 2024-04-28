@@ -4,10 +4,13 @@ title: Setup
 
 ## Logistics
 
-We will meet every day from April 29th to May 10th excluding the holiday
+We will meet every day from April 29th to May 10th, excluding the holiday
 on May 1st. Class will run from 9am to 1pm every day. We will meet at
 dLab Kilimanjaro Room, block D. Participants not in Dar should also be
 able to join remotely.
+
+### Pre-Course Survey
+Before we begin, please take a moment to fill out the (pre-course survey)[https://forms.gle/1eyZ96SjfWD9SLvc9].
 
 ### Schedule (Subject to Change)
 
@@ -59,7 +62,7 @@ able to join remotely.
 
 Over the course of this workshop, you will collaborate with your peers
 in small groups to develop a short lesson from start to finish. This
-incudes how to identify your target audience, determine what content to
+includes how to identify your target audience, determine what content to
 teach, and create an assessment-based curriculum for that content.
 Because much of our work involves programming, you will also learn how
 to effectively teach using the live coding method. Over the last two
@@ -95,13 +98,23 @@ appropriate topic for each group.
 
 ### Code of Conduct
 
-Let's take a few minutes to familiarize ourselves with the [The
-Carpentries Code of
-Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+To make clear what is expected,
+everyone participating in The Carpentries activities is required to abide by our
+[Code of Conduct][coc].
+Any form of behaviour to exclude, intimidate,
+or cause discomfort is a violation of the Code of Conduct.
+In order to foster a positive and professional learning environment we encourage you to:
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may
-be reported by following our [reporting
-guidelines](https://docs.carpentries.org/topic_folders/policies/incident-reporting.html).
+* Use welcoming and inclusive language
+* Be respectful of different viewpoints and experiences
+* Gracefully accept constructive criticism
+* Focus on what is best for the community
+* Show courtesy and respect towards other community members
+
+If you believe someone is violating the Code of Conduct,
+we ask that you report it to The Carpentries Code of Conduct Committee
+by completing [this form](https://goo.gl/forms/KoUfO53Za3apOuOK2).
+
 
 ## Learning Objectives
 
@@ -139,8 +152,7 @@ into your RStudio.
 
 ## Acknowledgment
 
-This lesson was built using [The Carpentries
-Workbench](https://carpentries.github.io/sandpaper-docs) by Amelia
+This lesson was built using [The Carpentries Workbench][carpentries-workbench] by Amelia
 Bertozzi-Villa and Punam Amratia. Much material was adapted from the
-Carpentries courses Collaborative Lesson Development Training and
-Instructor Training, while other material is original.
+Carpentries courses [Collaborative Lesson Development Training][lesson-dev] and
+[Instructor Training][instructor-training], while other material is original.

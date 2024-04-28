@@ -13,6 +13,8 @@ that others find effective and engaging.
 
 This two-week training session is designed to help you learn these
 principles and techniques. Our nine days together will involve a mix of
-lectures, discussion, small group work, and teaching practice.
+lectures, discussion, small group work, and teaching practice. Due to our limited time, we will focus on helping you develop a brief lesson with your peers, but these skills can be extended to longer and more complex courses.
+
+As we designed this course, we utilized the very concepts that we will be discussing over the next two weeks.
 
 
