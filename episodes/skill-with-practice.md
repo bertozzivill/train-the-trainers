@@ -17,12 +17,12 @@ exercises: 30
 :::::::::::::::::::::::::::::::::::::::: questions
 
 - How do people learn?
-- Who is a typical Carpentries learner?
+- Who is a typical data science/modeling learner?
 - How can we help novices become competent practitioners?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Note: This content was originally published in the Carpentries Instructor Training
+Note: This content was originally published in the Carpentries Instructor Training.
 
 We will now get started with a discussion of how learning works. We will begin with
 some key concepts from educational research and identify how these principles
@@ -30,7 +30,7 @@ are put into practice in Carpentries workshops.
 
 ## The Carpentries Pedagogical Model
 
-The Carpentries aims to teach computational competence to learners. We take an applied approach, avoiding the theoretical and general
+The Carpentries aims to teach computational competence to learners. Following them, in this course we take an applied approach, avoiding the theoretical and general
 in favor of the practical and specific. By showing learners how to solve specific problems with specific tools and providing hands-on
 practice, we develop learners' confidence and lay the foundation for future learning.
 
@@ -38,11 +38,10 @@ A critical component of this process is that learners are able to practice what 
 feedback on what they are doing, and then apply those lessons learned to the next step in the learning process. Having
 learners help each other during the workshops also helps to reinforce concepts taught during the workshops.
 
-**A Carpentries workshop is an interactive event** -- for learners and instructors. We give and
-receive feedback throughout the course of a workshop. We incorporate assessments within the lesson materials and
-ask for feedback on sticky notes during lunch breaks and at the end of each day.
+We believe that **a workshop is an interactive event** -- for learners and instructors. We give and
+receive feedback throughout the course of a workshop. We incorporate assessments within the lesson materials and ask for feedback on sticky notes during lunch breaks and at the end of each day.
 
-One reason why practice and feedback are so important is because a Carpentries workshop is not simply a source of information;
+One reason why practice and feedback are so important is because a workshop is not simply a source of information;
 it is the starting point for development of a new skill. To understand what this means, we will start by exploring what
 research tells us about skill acquisition and development of a "mental model."
 
@@ -62,26 +61,26 @@ through practice and formal instruction, learners acquire skills and advance thr
   Novices may have difficulty formulating questions, or may ask questions that seem irrelevant or off-topic
   as they rely on prior knowledge, without knowing what is or is not related yet.
   
-  > Example: A *novice* learner in a Carpentries workshop might never have heard of the bash shell, and therefore
-  > may have no understanding of how it relates to their file system or other programs on their computer.
+  > Example: A *novice* learner in a data visualization workshop might never have made a plot using code, and 
+  > may have no understanding of how to load data into an R or Python workspace, much less visualize it.
 
 - *Competent practitioner*: someone who has enough understanding for everyday purposes. They will not know all the details
   of how something works and their understanding may not be entirely accurate, but it is sufficient for completing normal
   tasks with normal effort under normal circumstances.
   
-  > Example: A *competent practitioner* in a Carpentries workshop might have used the shell before and understand how to
-  > move around directories and use individual programs, but they might not understand how they can fit these programs
-  > together to build scripts and automate large tasks.
+  > Example: A *competent practitioner* in a data visualization workshop might have used `ggplot2` or `matplotlib` before and knows how to 
+  > generate common plots (line, scatter, bar) using default color schemes, but may not know how to 
+  > customize appearance, labeling, color, or faceting. 
 
 - *Expert*: someone who can easily handle situations that are out of the ordinary.
   
-  > Example: An *expert* in a Carpentries workshop may have experience writing and running shell scripts and, when
-  > presented with a problem, immediately sees how these skills can be used to solve the problem.
+  > Example: An *expert* in a data visualization workshop may have extensive experience creating high-quality plots for publication and presentation, as well as an understanding of visualization theory.
+  > When presented with complex data to visualize, they may immediately come up with creative ideas to tell an effective story.
 
 Note that how a person *feels* about their skill level is not included in these definitions! You may or may not
 consider yourself an expert in a particular subject, but may nonetheless function at that level in certain contexts.
 We will come back to the expertise of the Instructor and its impact -- positive and negative --
-on teaching, in the next episode.
+on teaching, in a few episodes.
 For now, we are primarily concerned with novices,
 as this is The Carpentries' primary target audience.
 
@@ -122,10 +121,10 @@ If you choose to use an analogy, be sure its usefulness outweighs its potential 
 
 ## Analogy Brainstorm
 
-1. Think of an analogy to explore. Perhaps you have a favorite that relates to your area of professional interest, or a hobby. If
-  you prefer to work with an example, consider this analogy from education: "teaching is like gardening."
-2. Share your analogy with a partner or group. (If you have not yet done so, be sure to take a moment to introduce yourself, first!) What does your analogy
-  convey about the topic? How is it useful? In what ways is it wrong?
+Let's consider this analogy: "teaching is like gardening."
+What does your analogy convey about the topic?
+How is it useful? 
+In what ways is it wrong?
 
 This activity should take about 10 minutes.
 
@@ -207,14 +206,18 @@ perhaps illustrated as:
 
 ## Mapping a Mental Model
 
-1) On a piece of paper, draw a simplified concept map of the same concept you discussed in the last activity, but this time without the analogy.
-  What are 3-4 core
-  concepts involved? How are those concepts related? (Note: if you would like to try out an online tool for this exercise, visit [https://excalidraw.com](https://excalidraw.com) .)
+On a piece of paper, draw a concept map of the topic you're planning to teach next week. 
+What are 3-4 core concepts involved? How are those concepts related? 
 
-2) In the Etherpad, write some notes on this process. Was it difficult? Do you think it would be a useful exercise prior to teaching about your topic?
-  What challenges might a novice face in creating a concept map of this kind?  
-  This exercise should take about 5 minutes.
-  
+
+:::::::::::::::::::::  solution
+
+Was this difficult? 
+Did it help you consider your topic of choice more deeply?
+What challenges would a novice face in creating a concept map of this kind?  
+This exercise should take about 5 minutes.
+
+:::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -244,15 +247,15 @@ There are many ways of classifying different types of misconceptions. For our pu
 3 broad categories:
 
 - Simple *factual errors*. These exist in isolation from any deeper understanding.
-  These are the easiest to correct. Example: believing that Vancouver is the capital of British Columbia.
+  These are the easiest to correct. Example: believing that Dar es Salaam is the capital of Tanzania.
 - *Broken models*. These occur when inaccuracies explain relationships and generate predictions (often successfully!) in an existing mental model.
   These take time to address, demanding that learners reason carefully through examples to see contradictions.
-  Examples: believing that motion and acceleration must always be in the same direction, or that seasons are related to the shape of the earth's orbit.
+  Examples: believing that humid air causes malaria, or that seasons are related to the shape of the earth's orbit.
 - *Fundamental beliefs*, which are deeply connected to a learner's social identity
   and are the hardest to change. Examples: "the world is only a few thousand years old"
   or "human beings cannot affect the planet's climate". "I am not a computational person" may, arguably, also fall into this category of misconception.
 
-The middle category of misconceptions is the most useful type to watch out for in Carpentries workshops.
+The middle category of misconceptions is the most useful type to watch out for in workshops.
 While teaching, we want to expose learners' broken models so that we can help them begin to deconstruct them and build better ones in their place.
 
 :::::::::::::::::::::::::::::::::::::::  challenge
@@ -270,7 +273,7 @@ This exercise should take about 5 minutes.
 
 In order to effectively root out pre-existing misconceptions
 that need to be un-learned and stop quietly developing
-misconceptions in their tracks, an Instructor needs to be actively and persistently looking for them. But how?
+misconceptions in their tracks, an instructor needs to be actively and persistently looking for them. But how?
 
 Like so many challenges we will discuss in this training, the answer is **feedback**. In this case, we want feedback
 that allows us to **assess** the developing mental model of a trainee in highly specific ways, to verify that learning
@@ -279,26 +282,20 @@ so that we can respond to that information and adapt our instruction to get lear
 
 This kind of assessment has a name: it is called **formative assessment** because it is applied during learning to form
 the practice of teaching and the experience of the learner. This is different from exams, for example,
-which sum up what a participant has learned but are not used to guide further progress
+which sum up what a participant has learned but are not immediately used to guide further progress
 and are hence called **summative**.
 
-Feedback from formative assessment illuminates misconceptions for both Instructors and learners. It also provides
+Feedback from formative assessment illuminates misconceptions for both instructors and learners. It also provides
 reassurance on both sides when learning *is* proceeding on track! It is far more reliable than reading faces
-or using feelings of comfort as a metric, which tends to be what Instructors and learners default to
+or using feelings of comfort as a metric, which tends to be what instructors and learners default to
 otherwise.
 
 :::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Formative Assessments
 
-Any instructional tool that generates feedback that is used in a formative way can be described as "formative assessment."
-Based on your previous educational experience (or even this training so far!)
-what types of formative assessments do you know about?
-
-Write your answers in the Etherpad; or go around and have each person in the group name one.
-
-This exercise should take about 5 minutes.
-
+Any instructional tool that generates feedback that is used to inform the rest of the course can be described as "formative assessment."
+what types of formative assessments have you seen, either in your previous educational experience or even this training so far?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -316,6 +313,7 @@ A well-designed MCQ would be:
 
 ```source
 Q: what is 27 + 15 ?
+
 a) 42
 b) 32
 c) 312
@@ -329,8 +327,7 @@ but each of the other answers provides valuable insight.
 
 ## Identify the Misconceptions
 
-Choose one wrong answer and write in the Etherpad what misconception is associated with that wrong answer.
-This discussion should take about 5 minutes.
+Choose one wrong answer and write down what misconception is associated with that wrong answer.
 
 :::::::::::::::  solution
 
@@ -345,18 +342,16 @@ This discussion should take about 5 minutes.
 - If they answer 33 then they know they have to carry the 1,
   but are carrying it back into the same column it came from.
   
-  
 
 :::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Each of these incorrect answers has **diagnostic power**
-Each answer looks like it could be right:
-silly answers like "a fish!" offer therapeutic comedy but do not provide insight; nor do answers that
-are wrong in random ways.
-"Diagnostic power" means that each of the wrong choices helps the instructor figure out
+Each of these incorrect answers has **diagnostic power**: each of the wrong choices helps the instructor figure out
 precisely what misconceptions learners have adopted when they select that choice.
+Each answer looks like it could be right.
+Silly answers like "a fish!" are funny but do not provide insight; nor do answers that
+are wrong in random ways.
 
 Formative assessments are most powerful when:
 
@@ -378,10 +373,6 @@ What options do we have if a majority of the class chooses:
 2. mostly the right answer?
 3. an even spread among options?
 
-Choose one of the above scenarios and compose a suggested response to it in the Etherpad.
-
-This discussion should take about 5 minutes.
-
 :::::::::::::::  solution
 
 ## Solution
@@ -396,8 +387,6 @@ This discussion should take about 5 minutes.
   absent mental model rather than a broken one. In this case it is a good
   idea to go back to a point where everyone was on the same page.
   
-  
-
 :::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -425,7 +414,7 @@ In fact,
 **presenting too many facts too soon can actually reinforce
 an incorrect mental model**. (This is a key problem with the "empty vessel" analogy described earlier.)
 
-Most learners coming to Carpentries lessons are novices,
+Learners coming to data science workshops may be novices,
 and do not have a strong mental model of the concepts we are teaching.
 Thus, our primary goal is **not**
 to teach the syntax of a particular programming language, but **to help them construct a working mental model**
@@ -446,38 +435,27 @@ form the right categories and make connections among concepts.  We *do not*
 want to overload them with a slew of unrelated facts, as this will be confusing.
 
 An important practical implication of this latter point is the pace at which we teach.  
-In the first main episode of Software Carpentry's [lesson on the Unix shell][swc-shell-novice],
-which covers "Navigating Files and Directories", there are only four "commands"
-for 40 minutes of teaching. Ten minutes per command may seem glacially slow,
-but that episodes's real purpose is to teach learners about paths; later on,
-they will learn about history, wildcards, pipes and filters,
-command-line arguments, redirection,
-and all the other big ideas on which the shell depends,
-and without which people cannot understand how to use commands.
+In the [data visualization training Gloria Shirima ran in Kigali][data-viz-train],
+we only covered two types of plot (line and scatter) for three hours of teaching. An hour and a half per command may seem glacially slow,
+but that course's real purpose was to teach learners about the fundamental theory of plot creation, especially the concepts of layers and aesthetic mappings. From that foundation, constructing more involved and complex plots will be much easier. 
 
-That mental model of the shell also includes things like:
+That mental model of ggplot also includes things like:
 
-- Anything you repeat manually, you will eventually get wrong
-  (so let the computer repeat things for you by using tab completion
-  and the `history` command).
-- Lots of little tools, combined as needed, are more productive than
-  a handful of programs.
-  (This motivates the pipe-and-filter model.)
+- Creating informative variable names
+  (so you can differentiate between a multiple of plots in one script).
+- Writing code in scripts rather than the console (to ensure you don't lose it).
 
-These two examples illustrate something else as well.
 Learning consists of more than "just" adding information to mental models;
 creating linkages between concepts and facts is at least as important.
-Telling people that they should not repeat things,
-and that they should try to think (by analogy) in terms of little pieces loosely joined,
-both set the stage for discussing functions.
-Explicitly referring back to pipes and filters in the shell when introducing functions
-helps solidify both ideas.
+Telling people that they should name things nicely and consistently,
+and that they should focus on the location and protection of the code they write,
+both set the stage for discussing of code hygiene and replicability. We're laying foundations of the practices we want to promote even when not discussing them directly.
 
 :::::::::::::::::::::::::::::::::::::::::  callout
 
 ## Meeting Learners Where They Are
 
-One of the strengths of Carpentries workshops is that we meet learners *where they are*. Carpentries Instructors
+Strong workshops is that we meet learners *where they are*. Instructors
 strive to help learners
 progress from whatever starting point they happen to be at, without making anyone
 feel inferior about their current practices or skillsets. We do this in part by teaching relevant and useful skills,
@@ -490,7 +468,7 @@ from learners. We will be talking in more depth about each of these strategies a
 [wikipedia-dreyfus-skill]: https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition
 [nurses-dreyfus]: https://journals.sagepub.com/doi/10.1177/0270467604265061
 [Benner-dreyfus]: https://www.worldcat.org/search?q=au%3ABenner%2C+Patricia+E.
-[swc-shell-novice]: https://swcarpentry.github.io/shell-novice/
+[data-viz-train]: TODO
 
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
