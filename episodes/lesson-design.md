@@ -20,7 +20,32 @@ After completing this episode, participants should be able to...
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Note: This content was originally published in the Carpentries Collaborative Lesson Development Training
+Note: This content was modified from the [Carpentries Collaborative Lesson Development Training][lesson-dev].
+
+:::::::::::::::::::::::::::::::::::::  challenge
+
+## Lesson building 
+
+Let's imagine that tomorrow morning your boss knocks on your door and tells you that she needs you to prepare a data science training for a group of Master's students that will be arriving next month. You know that the students have R installed and know how to run code, but have never worked with data before. You're going to be giving a two-day workshop, five hours each day. 
+
+Also imagine that you can't just go online and teach a ready-made data science course.
+
+How will you begin building out your curriculum?
+
+
+
+:::::::::::::::  solution
+
+## Solution
+
+The world of data science is so vast that it's difficult to know where to start. Probably, you started by listing off the topics that you thought were good beginner material, and then putting them in some sort of reasonable order so that you can write a lesson plan for each. 
+
+While this is a strategy that can result in good curricula, here we will be recommending a different way to develop lessons: one that begins with what skills you want the students to have by the **end** of the workshop. From there, you work backwards to determine what the course content should look like.
+  
+:::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 ## A Lesson Design Process
 
@@ -30,60 +55,31 @@ where those who wish to develop a new curriculum first begin by defining
 exactly what their learners will be able to do
 _after they have completed the lesson/training/course_.
 The subsequent stages of the curriculum design process involve designing content
-to directly meet those stated outcomes.
-
-1. Select learning outcomes
-2. Choose learning experiences to help learners achieve these outcomes
-3. Develop content to support these experiences
-4. Assess learner progress towards desired outcomes
-5. Evaluate chosen outcomes, experiences, and content based on this assessment
-
-![Nicholls' five phases of curriculum design, 
-presented as a cycle to reflect that all aspects of the design should be 
-revisited in response to the results of the evaluation that takes place at step 5.
-](fig/nicholls-five-phases.svg){
-alt="A flow diagram presenting the Nicholls' five phases of curriculum design as a cycle."
-width="67%"
-}
-
-The last two phases of Nicholls' paradigm involve
-assessing learner progress towards the desired learning outcomes and
-evaluating the stated objectives and current content in light of the results of that assessment.
-In The Carpentries, most workshops are relatively short-format,
-without room for an extensive assessment after the teaching has finished
-(a _summative_ assessment).
-To account for this, our lessons place an emphasis on _formative_ assessment:
-assessment of learner progress that takes place _while the teaching is still going on_,
-to give instructors opportunities to evaluate the teaching and lesson content
-before the end of the workshop.
-
-To account for this,
-we have adapted Nicholls' five phases in this training,
-to place an emphasis on assessing learning during a workshop:
+to directly meet those stated outcomes. The Carpentries developed the modified version of Nicholls' system that we will use in this workshop:
 
 1. Define desired learning outcomes
 2. Design assessments to determine progress towards desired outcomes
 3. Write content to lead learners from one of these assessments to the next
 4. Assess learner progress towards outcomes during teaching
-5. (After the break) evaluate how closely the outcomes meet the objectives
+5. Evaluate how closely the outcomes meet the objectives
 
-![An overview of the iterative process of lesson design and development 
-, adapted from Nicholl's five phases,
-that will be presented in this training.
-](fig/cldt-design-process.svg){
+![](fig/cldt-design-process.svg){
 alt="A flow diagram presenting the process of lesson design and development used in this training."
 width="67%"
 }
 
-Note the cyclical nature of this process:
-you will complete one iteration through this cycle during this training
-(though probably for a limited part of your lesson, rather than the whole thing).
-Note also that teaching the content is an essential intermediate step in the process:
+We assess learners two different ways in this framework. The first, in Step 2, refers to the ways we will assess learner progress _while the teaching is still going on_, to give instructors opportunities to evaluate the teaching and lesson content before the end of the workshop. This type of mid-course assessment is called a _formative_ assessment. 
+
+The second, in Step 4, refers to a  _summative_ assessment: an assessment that takes place at the end of a lesson to tell whether the desired learning has taken place. Final exams are the most common examples of summative assessments, but in our case the exit survey that you will complete will form as a summative assessment. This final survey will help us iterate and refine the content as a whole for future trainings.
+
+Note the cyclical nature of the lesson design process:
+you will complete one iteration through this cycle during this training.
+Note also that _teaching the content_ is an essential intermediate step in the process:
 the importance of feedback gathered while teaching the lesson
 will be a common refrain throughout this training.
 
 
-## Your Lessons
+## Your Lesson
 
 This training will provide many opportunities for discussion of your lessons.
 Providing some context now for the lessons that you will be creating will
@@ -93,14 +89,19 @@ and give you feedback as you follow the process.
 
 :::::::::::::::::::::::::::::::::::::  discussion
 
-## Discussion (10 minutes)
+## Group Work: Picking a Lesson Topic
 
-Share your answers to the following questions in the shared notes,
-then discuss them with the Trainers, your collaborators, and the other participants.
+Get together with your project teammate(s). Spend ten minutes deciding what **small** topic you would like to select to teach next week. Remember, it should be on the scale of the following examples:
+
+-   how to make a specific type of plot (line, scatter, bar, etc)
+-   how to customize the color scheme of a plot
+-   how to convert from one date-time type to another
+-   how a single function can help solve a common data cleaning problem
+
+Fill out this short form to let us know who you're working with and what topic you're planning to present.
 
 1. What is the topic of the lesson that you plan to develop based on this training?
-2. Have you created training material on this topic before?
-3. What is motivating you to create this lesson?
+2. What is motivating you to create this lesson?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -108,7 +109,6 @@ then discuss them with the Trainers, your collaborators, and the other participa
 
 ## Trainer Note
 
-Trainees should have received the questions above in advance and arrived at the training with notes prepared.
 Where multiple trainees are working on the same lesson project, 
 ask for a volunteer or call on someone to represent their team,
 leaving space afterwards for their team-mates to speak up if their answers differ.
@@ -121,6 +121,8 @@ The main objectives of this discussion are:
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Iterative Development
+
+Over these two weeks, we will be focusing on helping you develop a single short lesson to teach the fundamentals of curriculum design. However, these same skills can be used to build out a much more extensive curriculum (like the one you're learning now). And because so many of the skills you might be teaching are in high demand, it's likely that you may be asked to conduct more trainings than you can possibly have the bandwidth for. Because of this, as you're designing larger courses it may be useful to consider developing a pipeline for tested, shareable curricula that others can pick up and teach. The Carpentries have a lovely model for this type of sharing that we'd like to take a moment to discuss here. 
 
 The Carpentries community develops open source lessons,
 which can always be updated and may never be _finished_.
@@ -141,7 +143,7 @@ Each life cycle stage indicates the level of maturity of a lesson:
 - **beta**: the lesson is ready to be taught by instructors who have not been significantly involved in its developed to this point.
 - **stable**: the lesson has been extensively tested by the authors and others. It can be considered broadly complete and unlikely to undergo any drastic changes without warning.
 
-Although your lessons will probably remain in pre-alpha throughout this training,
+Although your lesson will probably remain in pre-alpha throughout this training,
 some of the content will be equally valuable at later stages 
 and we will also point you towards resources to help with testing the lesson and gathering feedback.
 
@@ -154,4 +156,4 @@ and we will also point you towards resources to help with testing the lesson and
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-[^1]: [Nicholls (2002)](learners/reference.md#litref)
+[^1]: [Nicholls, G. 2002. _Developing teaching and learning in higher education._ London, UK: Routledge.](https://www.taylorfrancis.com/books/mono/10.4324/9780203469231/developing-teaching-learning-higher-education-gill-nicholls)
