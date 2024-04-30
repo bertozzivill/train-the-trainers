@@ -1,5 +1,5 @@
 ---
-title: Building Skill With Practice
+title: Skill Levels, Mental Models, and Misconceptions
 teaching: 30
 exercises: 30
 ---
@@ -22,7 +22,7 @@ exercises: 30
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Note: This content was originally published in the Carpentries Instructor Training.
+Note: This content was modified from in the [Carpentries Instructor Training][instructor-training].
 
 We will now get started with a discussion of how learning works. We will begin with
 some key concepts from educational research and identify how these principles
@@ -79,10 +79,10 @@ through practice and formal instruction, learners acquire skills and advance thr
 
 Note that how a person *feels* about their skill level is not included in these definitions! You may or may not
 consider yourself an expert in a particular subject, but may nonetheless function at that level in certain contexts.
-We will come back to the expertise of the Instructor and its impact -- positive and negative --
+We will come back to the expertise of the instructor and its impact -- positive and negative --
 on teaching, in a few episodes.
 For now, we are primarily concerned with novices,
-as this is The Carpentries' primary target audience.
+as this is often our primary target audience.
 
 It is common to think of a novice as a sort of an "empty vessel" into which knowledge can be "poured." Unfortunately, this analogy includes inaccuracies that can generate dangerous misconceptions. In our next section, we will briefly explore
 the nature of "knowledge" through a concept
