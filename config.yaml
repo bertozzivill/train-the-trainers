@@ -61,10 +61,10 @@ contact: 'amelia.bertozzi-villa@gatesfoundation.org'
 episodes:
 - introduction.md  # ABV
 - growth-mindset.md # ABV
-# - lesson-design.md # lesson-dev
+- skill-with-practice.md # instructor
+- lesson-design.md # lesson-dev
 # - target-audience.md # lesson-dev
 # - creating-objectives.md # lesson-dev
-# - skill-with-practice.md # instructor
 # - designing-assessments.md # lesson-dev
 # - crafting-content.md # ABV
 # - equity-inclusion-accessibility.md # instructor
