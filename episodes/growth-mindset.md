@@ -96,7 +96,14 @@ The process of sitting with and moving past the discomfort that comes with feedb
 
 ## Exercise: Giving and Receiving Feedback
 
-Choose something that belongs to you but you don't feel very attached to, perhaps your backpack or your notebook or the font you're using in your paper draft. (Do not select a body part or an article of clothing.) Using the ASK guidelines, ask the person sitting next to you to give you some feedback about the thing you've selected. Then switch and do the same for them.
+Choose something that you’re working on, like:
+
+- A font you’re using in a document
+- A plot you made
+- Something you’re considering buying.
+
+Using the ASK guidelines, ask the person sitting next to you to give you some feedback about the thing you’ve selected. Then switch and do the same for them.
+What feedback was challenging to give or receive?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 

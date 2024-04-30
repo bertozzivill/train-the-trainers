@@ -68,9 +68,9 @@ alt="A flow diagram presenting the process of lesson design and development used
 width="67%"
 }
 
-We assess learners two different ways in this framework. The first, in Step 2, refers to the ways we will assess learner progress _while the teaching is still going on_, to give instructors opportunities to evaluate the teaching and lesson content before the end of the workshop. This type of mid-course assessment is called a _formative_ assessment. 
+Note that the assessment framework here focuses on _formative_, rather than _summative_, assessments. Because of the shorter nature of the course we focus on assessing and modifying progress _while the teaching is still going on_, to give instructors opportunities to evaluate the teaching and lesson content before the end of the workshop. 
 
-The second, in Step 4, refers to a  _summative_ assessment: an assessment that takes place at the end of a lesson to tell whether the desired learning has taken place. Final exams are the most common examples of summative assessments, but in our case the exit survey that you will complete will form as a summative assessment. This final survey will help us iterate and refine the content as a whole for future trainings.
+We will conduct a small summative assessment in the form of an exit survey that you will complete at the end of the session. This final survey will help us iterate and refine the content as a whole for future trainings.
 
 Note the cyclical nature of the lesson design process:
 you will complete one iteration through this cycle during this training.
