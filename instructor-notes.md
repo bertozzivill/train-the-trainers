@@ -12,3 +12,7 @@ Schedule for 4/29:
   Break around 11
   - What makes a good teacher
   - Growth mindset 
+  
+4/30 Qs from Menti:
+  - What is the use of pedagogical model is it to understand our audience or ..!?
+  - how do you handle and approach a person who is in the middle slightly a novice and slightly a competent practitioner?
