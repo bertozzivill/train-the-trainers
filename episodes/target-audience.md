@@ -39,7 +39,7 @@ relevant prior knowledge to attend your workshops.
 One of the most important things we can identify about our target audience
 is the level of expertise they will already have in relation to the skills taught by your lesson.
 Recall our conversation from last section about the
-[three different stages of skill acquisition: novice, competent practitioner, and expert][skill-models-misconceptions.md] and how it directly correlates to the complexity of mental models these different groups have about a domain/topic.
+[three different stages of skill acquisition: novice, competent practitioner, and expert](skill-models-misconceptions.md) and how it directly correlates to the complexity of mental models these different groups have about a domain/topic.
 
 Briefly, the novice is someone who does not know what they do not know, i.e., they do not yet know what the key ideas in the domain are or how they relate, the competent practitioner has enough understanding of the domain/topic for everyday purposes, and the expert is someone who can easily handle situations that are out of the ordinary and can immediately use their prior knowledge or skills when presented with a new problem in the domain.
 
