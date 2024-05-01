@@ -208,9 +208,11 @@ to manage their expectations about how useful the workshop will be for them.
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
+
+- Assessments are a way to determine whether the objectives you defined for the lesson have been reached.
 - Exercises are important for learners to move what they've learned to long-term memory.
 - Some types of exercises are better for particular audiences and to address certain objectives.
-- Exercises (and solutions) go in blocks using fenced divs in the lesson.
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 

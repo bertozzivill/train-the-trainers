@@ -132,6 +132,8 @@ in learning objectives.
 We will see how helpful it can be to use action verbs in learning objectives
 when we begin talking about exercise design in the coming episodes.
 
+![Bloom's Taxonomy](fig/blooms_taxonomy.png){alt='A pyramid with, from bottom to top, the words  "remember", "understand", "apply", "analyze", "evaluate", and "create".'}
+
 
 ## SMART Objectives
 
