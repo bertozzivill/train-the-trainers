@@ -21,51 +21,55 @@ survey](https://forms.gle/1eyZ96SjfWD9SLvc9){target="_blank"}.
 
 ### Schedule (Subject to Change)
 
-+-----------------+--------------------------+-------------------------+
-| Day             | Subjects                 | Amelia Afternoon        |
-|                 |                          | Location                |
-+=================+==========================+=========================+
-| Monday April 29 | Welcome and Introduction | dLab                    |
-|                 |                          |                         |
-|                 | What Makes a Good        |                         |
-|                 | Teacher?                 |                         |
-|                 |                          |                         |
-|                 | Intro to Growth Mindsets |                         |
-+-----------------+--------------------------+-------------------------+
-| Tuesday April   | Lesson Design            | IHI                     |
-| 30              |                          |                         |
-|                 | Finding your Target      |                         |
-|                 | Audience                 |                         |
-|                 |                          |                         |
-|                 | Creating Objectives      |                         |
-+-----------------+--------------------------+-------------------------+
-| Wednesday May 1 | Holiday                  |                         |
-+-----------------+--------------------------+-------------------------+
-| Thursday May 2  | Skill and Practice       | dLab                    |
-|                 |                          |                         |
-|                 | Designing Assessments    |                         |
-+-----------------+--------------------------+-------------------------+
-| Friday May 3    | Crafting Content         | IHI                     |
-|                 |                          |                         |
-|                 | Equity, Inclusion, &     |                         |
-|                 | Accessibility            |                         |
-+-----------------+--------------------------+-------------------------+
-|                 |                          |                         |
-+-----------------+--------------------------+-------------------------+
-| Monday May 6    | Expertise & Instruction  |                         |
-|                 |                          |                         |
-|                 | Motivation &             |                         |
-|                 | Demotivation             |                         |
-+-----------------+--------------------------+-------------------------+
-| Tuesday May 7   | Building Skill with      |                         |
-|                 | Feedback                 |                         |
-+-----------------+--------------------------+-------------------------+
-| Wednesday May 8 | How to Code Live         |                         |
-+-----------------+--------------------------+-------------------------+
-| Thursday May 9  | Live Coding Sessions     |                         |
-+-----------------+--------------------------+-------------------------+
-| Friday May 10   | Live Coding Sessions     |                         |
-+-----------------+--------------------------+-------------------------+
++-----------------+-------------------------+------------------------+
+| Day             | Subjects                | Amelia Afternoon       |
+|                 |                         | Location               |
++=================+=========================+========================+
+| Monday April 29 | Welcome and             | dLab                   |
+|                 | Introduction            |                        |
+|                 |                         |                        |
+|                 | What Makes a Good       |                        |
+|                 | Teacher?                |                        |
+|                 |                         |                        |
+|                 | Intro to Growth         |                        |
+|                 | Mindsets                |                        |
++-----------------+-------------------------+------------------------+
+| Tuesday April   | Skill Levels, Mental    | Out for conference     |
+| 30              | Models, and             |                        |
+|                 | Misconceptions          |                        |
+|                 |                         |                        |
+|                 | Lesson Design           |                        |
++-----------------+-------------------------+------------------------+
+| Wednesday May 1 | Holiday                 |                        |
++-----------------+-------------------------+------------------------+
+| Thursday May 2  | Finding your Target     | dLab                   |
+|                 | Audience                |                        |
+|                 |                         |                        |
+|                 | Creating Objectives     |                        |
+|                 |                         |                        |
+|                 | Designing Assessments   |                        |
++-----------------+-------------------------+------------------------+
+| Friday May 3    | Crafting Content        | IHI                    |
+|                 |                         |                        |
+|                 | Equity, Inclusion, &    |                        |
+|                 | Accessibility           |                        |
++-----------------+-------------------------+------------------------+
+|                 |                         |                        |
++-----------------+-------------------------+------------------------+
+| Monday May 6    | Expertise & Instruction |                        |
+|                 |                         |                        |
+|                 | Motivation &            |                        |
+|                 | Demotivation            |                        |
++-----------------+-------------------------+------------------------+
+| Tuesday May 7   | Building Skill with     |                        |
+|                 | Feedback                |                        |
++-----------------+-------------------------+------------------------+
+| Wednesday May 8 | How to Code Live        |                        |
++-----------------+-------------------------+------------------------+
+| Thursday May 9  | Live Coding Sessions    |                        |
++-----------------+-------------------------+------------------------+
+| Friday May 10   | Live Coding Sessions    |                        |
++-----------------+-------------------------+------------------------+
 
 ### Group Work for Live Coding
 
