@@ -21,7 +21,7 @@ After completing this episode, participants should be able to...
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Note: This content was originally published in the Carpentries Collaborative Lesson Development Training
+Note: This content was originally published in the [Carpentries Collaborative Lesson Development Training][lesson-dev].
 
 ![
 In this episode we will begin the first step of our iterative design process:
@@ -204,7 +204,7 @@ This part of the exercise should take 10 minutes.
 _At the end of this lesson, learners will be able to:_
 
 1. create formatted page content with Markdown.
-1. program with Rust.
+1. program with Python.
 1. fully understand GitHub Actions.
 
 | Objective | Action verb? | Specific | Measurable | Attainable |
