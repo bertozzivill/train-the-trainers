@@ -46,22 +46,25 @@ survey](https://forms.gle/1eyZ96SjfWD9SLvc9){target="_blank"}.
 |                 | Audience                |                        |
 |                 |                         |                        |
 |                 | Creating Objectives     |                        |
++-----------------+-------------------------+------------------------+
+| Friday May 3    | Discussion: Dealing     | dLab                   |
+|                 | with the Unexpected     |                        |
 |                 |                         |                        |
 |                 | Designing Assessments   |                        |
 +-----------------+-------------------------+------------------------+
-| Friday May 3    | Crafting Content        | IHI                    |
+|                 |                         |                        |
++-----------------+-------------------------+------------------------+
+| Monday May 6    | Crafting Content        |                        |
 |                 |                         |                        |
 |                 | Equity, Inclusion, &    |                        |
 |                 | Accessibility           |                        |
 +-----------------+-------------------------+------------------------+
-|                 |                         |                        |
-+-----------------+-------------------------+------------------------+
-| Monday May 6    | Expertise & Instruction |                        |
+| Tuesday May 7   | Expertise & Instruction |                        |
 |                 |                         |                        |
 |                 | Motivation &            |                        |
 |                 | Demotivation            |                        |
-+-----------------+-------------------------+------------------------+
-| Tuesday May 7   | Building Skill with     |                        |
+|                 |                         |                        |
+|                 | Building Skill with     |                        |
 |                 | Feedback                |                        |
 +-----------------+-------------------------+------------------------+
 | Wednesday May 8 | How to Code Live        |                        |
