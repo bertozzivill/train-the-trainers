@@ -13,6 +13,6 @@
 "episodes/designing-assessments.md" "2521c70c76fde9842e550de2b7280207" "site/built/designing-assessments.md" "2024-05-01"
 "instructors/instructor-notes.md" "61ff933bc5aa15c3f556d757ed52a014" "site/built/instructor-notes.md" "2024-05-01"
 "learners/reference.md" "d9e99adf7a766566f1b8bbaaaea1b660" "site/built/reference.md" "2024-04-30"
-"learners/setup.md" "8a41f6542c185d61f6b7fb8de67bbbc8" "site/built/setup.md" "2024-05-01"
+"learners/setup.md" "108a11c54751c67e52cc0f3256fd870e" "site/built/setup.md" "2024-05-03"
 "profiles/learner-profiles.md" "60b93493cf1da06dfd63255d73854461" "site/built/learner-profiles.md" "2024-03-12"
 "renv/profiles/lesson-requirements/renv.lock" "22cb5625b7367be1f8787d98ded05634" "site/built/renv.lock" "2024-04-09"
