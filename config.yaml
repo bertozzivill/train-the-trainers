@@ -66,14 +66,15 @@ episodes:
 - target-audience.md # lesson-dev
 - creating-objectives.md # lesson-dev
 - designing-assessments.md # lesson-dev
-# - crafting-content.md # ABV
-# - equity-inclusion-accessibility.md # instructor
 # - finish-week-1.md
+# - preparing-to-teach.md # lesson-dev
+# - crafting-content.md # ABV-- combine with preparing to teach, add tech setup component
+# - equity-inclusion-accessibility.md # instructor
+# - live-coding.md # instructor
+# todo: conclusion/things we didn't have time for
+# - skill-with-feedback.md # instructor-- maybe not time
 # - expertise-instruction.md # instructor-- might not need
 # - motivation.md # instructor-- might not need
-# - skill-with-feedback.md # instructor
-# - live-coding.md # instructor
-# - preparing-to-teach.md # lesson-dev
 
 
 # Information for Learners
