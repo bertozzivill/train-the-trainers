@@ -21,54 +21,61 @@ survey](https://forms.gle/1eyZ96SjfWD9SLvc9){target="_blank"}.
 
 ### Schedule (Subject to Change)
 
-+-----------------+------------------------+-----------------------+
-| Day             | Subjects               | Amelia Afternoon      |
-|                 |                        | Location              |
-+=================+========================+=======================+
-| Monday April 29 | Welcome and            | dLab                  |
-|                 | Introduction           |                       |
-|                 |                        |                       |
-|                 | What Makes a Good      |                       |
-|                 | Teacher?               |                       |
-|                 |                        |                       |
-|                 | Intro to Growth        |                       |
-|                 | Mindsets               |                       |
-+-----------------+------------------------+-----------------------+
-| Tuesday April   | Skill Levels, Mental   | Out for conference    |
-| 30              | Models, and            |                       |
-|                 | Misconceptions         |                       |
-|                 |                        |                       |
-|                 | Lesson Design          |                       |
-+-----------------+------------------------+-----------------------+
-| Wednesday May 1 | Holiday                |                       |
-+-----------------+------------------------+-----------------------+
-| Thursday May 2  | Finding your Target    | dLab                  |
-|                 | Audience               |                       |
-|                 |                        |                       |
-|                 | Creating Objectives    |                       |
-+-----------------+------------------------+-----------------------+
-| Friday May 3    | Discussion: Dealing    | dLab                  |
-|                 | with the Unexpected    |                       |
-|                 |                        |                       |
-|                 | Designing Assessments  |                       |
-+-----------------+------------------------+-----------------------+
-|                 |                        |                       |
-+-----------------+------------------------+-----------------------+
-| Monday May 6    | Preparing to Teach     |                       |
-|                 |                        |                       |
-|                 | Equity, Inclusion, &   |                       |
-|                 | Accessibility          |                       |
-+-----------------+------------------------+-----------------------+
-| Tuesday May 7   | How to Code Live       |                       |
-+-----------------+------------------------+-----------------------+
-| Wednesday May 8 | Other Considerations   |                       |
-|                 |                        |                       |
-|                 | Lesson Prep            |                       |
-+-----------------+------------------------+-----------------------+
-| Thursday May 9  | Live Coding Sessions   |                       |
-+-----------------+------------------------+-----------------------+
-| Friday May 10   | Live Coding Sessions   |                       |
-+-----------------+------------------------+-----------------------+
++-----------------+-----------------------+----------------------+
+| Day             | Subjects              | Amelia Afternoon     |
+|                 |                       | Location             |
++=================+=======================+======================+
+| Monday April 29 | Welcome and           | dLab                 |
+|                 | Introduction          |                      |
+|                 |                       |                      |
+|                 | What Makes a Good     |                      |
+|                 | Teacher?              |                      |
+|                 |                       |                      |
+|                 | Intro to Growth       |                      |
+|                 | Mindsets              |                      |
++-----------------+-----------------------+----------------------+
+| Tuesday April   | Skill Levels, Mental  | Out for conference   |
+| 30              | Models, and           |                      |
+|                 | Misconceptions        |                      |
+|                 |                       |                      |
+|                 | Lesson Design         |                      |
++-----------------+-----------------------+----------------------+
+| Wednesday May 1 | Holiday               |                      |
++-----------------+-----------------------+----------------------+
+| Thursday May 2  | Finding your Target   | dLab                 |
+|                 | Audience              |                      |
+|                 |                       |                      |
+|                 | Creating Objectives   |                      |
++-----------------+-----------------------+----------------------+
+| Friday May 3    | Discussion: Dealing   | dLab                 |
+|                 | with the Unexpected   |                      |
+|                 |                       |                      |
+|                 | Designing Assessments |                      |
++-----------------+-----------------------+----------------------+
+|                 |                       |                      |
++-----------------+-----------------------+----------------------+
+| Monday May 6    | Week 1 Recap          | dLab                 |
+|                 |                       |                      |
+|                 | Lesson Plans &        |                      |
+|                 | Crafting Content      |                      |
+|                 |                       |                      |
+|                 | Equity, Inclusion, &  |                      |
+|                 | Accessibility         |                      |
++-----------------+-----------------------+----------------------+
+| Tuesday May 7   | How to Code Live      | dLab                 |
++-----------------+-----------------------+----------------------+
+| Wednesday May 8 | The Physical Act of   | dLab                 |
+|                 | Teaching              |                      |
+|                 |                       |                      |
+|                 | Lesson Prep Free Time |                      |
++-----------------+-----------------------+----------------------+
+| Thursday May 9  | Live Coding Sessions  | dLab                 |
++-----------------+-----------------------+----------------------+
+| Friday May 10   | Live Coding           | dLab                 |
+|                 | Reflections           |                      |
+|                 |                       |                      |
+|                 | Conclusion            |                      |
++-----------------+-----------------------+----------------------+
 
 ### Group Work for Live Coding
 

@@ -19,7 +19,7 @@ exercises: 20
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Note: This content was originally published in the Carpentries Instructor Training
+Note: This content was originally published in the [Carpentries Instructor Training][instructor-training]
 
 
 ## A Positive Environment for All
