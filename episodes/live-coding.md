@@ -1,7 +1,7 @@
 ---
-title: Live Coding is a Skill
+title: Live Coding
 teaching: 20
-exercises: 45
+exercises: 60
 ---
 ::::::::::::::::::::::::::::::::::::::: objectives
 
@@ -17,8 +17,7 @@ exercises: 45
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
   
-Note: This content was originally published in the Carpentries Instructor Training
-
+Note: This content is adapted from the [Carpentries Instructor Training][instructor-training].
   
 One of the cornerstones of The Carpentries teaching is live
 coding: *instructors do not use slides to teach coding*, but work through the lesson material,
@@ -46,8 +45,7 @@ We refer to the practice of having the instructor live code and the learners cod
 ## Anticipate the Impact
 
 List some advantages and challenges of participatory live coding
-from both a learner's and an instructor's point of view
-in the Etherpad.
+from both a learner's and an instructor's point of view.
 
 This discussion should take about 5 minutes.
 
@@ -94,8 +92,7 @@ Live coding fits well into the practice-feedback model we have been discussing -
 learners with continuous opportunities for practice (every time they type in a line of code)
 and continuous feedback (their code either works or fails with an error message). It is
 important to keep in mind, however, that feedback is not helpful if you cannot understand it.
-Many error messages are obscure and not written with novices in mind. Continue to use the strategies for error framing that
-[we learned earlier](08-motivation.md) to make sure this feedback is useful to learners.
+Many error messages are obscure and not written with novices in mind. Use the strategies for [error framing](https://carpentries.github.io/instructor-training/08-motivation.html) to make sure this feedback is useful to learners.
 
 - **Debugging as a skill** – while learners may have negative associations with "mistakes" or "typos", it may be useful to re-frame troubleshooting as the routine process of finding and fixing "bugs".
 
@@ -107,10 +104,9 @@ Many error messages are obscure and not written with novices in mind. Continue t
 
 ## Compare and Contrast
 
-Watch this first participatory live coding demo video: [https://youtu.be/bXxBeNkKmJE][live-coding-bad]
-and this second demo video: [https://youtu.be/SkPmwe\_WjeY][live-coding-good]
-as a group and then summarize your feedback on both in the Etherpad.
-Use the 2x2 rubric for feedback we discussed earlier.
+Watch this first participatory live coding demo video: [Live Coding #1][live-coding-bad]
+and this second demo video: [Live Coding #2][live-coding-good]
+as a group. 
 
 In the videos, the bash shell `for` loop is taught,
 and it is assumed learners are familiar with how to use a variable,
@@ -118,6 +114,10 @@ the `head` command and the content of the `basilisk.dat` and `unicorn.dat`
 files.
 
 Note: Sometimes sounds in the room can be poor. Turning on closed captioning by pressing the cc button will improve the accessibility of these videos.
+
+Summarize your feedback using a 2x2 grid: Positive vs Needs Growth, and Content vs Delivery.
+
+![](fig/content_grid.png)
 
 This exercise and discussion should take about 15 minutes.
 
@@ -152,67 +152,18 @@ Read more in [Ten quick tips for teaching with participatory live-coding][live-c
 
 ## Practice Teaching
 
-1. Split into groups of three.
+1. Split into your groups. If your group has two people, pair up with another group.
 2. Assign roles, which will rotate: presenter, timekeeper, note-taker.
-3. Have each group member teach 3 minutes of your chosen lesson episode using live coding.
+3. Have each group member teach their section of your lesson episode using live coding.
   For this exercise, your peers will not "code-along." Before
-  you begin, briefly describe what you will be teaching and what has been learned previously. Do not record this exercise.
-4. After each person finishes, each group member should share feedback (starting with themselves) using the same 2x2 rubric introduced in part 2 The
-  timekeeper should keep feedback discussion to about 1 minute per person; this may leave some time at the end for general
-  discussion. The note-taker should record feedback in the Etherpad.
+  you begin, briefly describe what you will be teaching and what has been learned previously.
+4. After each person finishes, each group member should share feedback (starting with themselves) using the same 2x2 rubric we used for the YouTube videos. The
+  timekeeper should keep feedback discussion to about 3 minutes per person; this may leave some time at the end for general discussion. The note-taker should record feedback somewhere that can be shared with everyone later.
 5. Trade off roles.
 
-This exercise should take about 25 minutes.  
-
+This exercise should take about 45 minutes.  
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
-
-
-## Tech Setup Challenge-- Running Python from Rstudio
-note: will turn the below into a challenge to help students understand how to guarantee effective software setup.
-
-This is a mixed course, with participants who are most comfortable in either Python or R. In order to run R scripts, everyone should have downloaded and installed R and RStudio yesterday. And luckily, RStudio can also function as a development environment for Python, so we shouldn't need to download Python separately. What we will need to do is install the R package that will help us run Python, as well as a few Python packages.
-
-### `reticulate`
-You can run Python code from an R session using an R package called `reticulate`. Make sure you have `reticulate` installed, either using the GUI or by running `install.packages("reticulate")` from the RStudio console. 
-
-Now, open a new R script and name it "install_python_packages.R". On the first line, type `library(reticulate)`.
-
-### Python packages
-Like R, Python has a robust system of libraries that need to be installed and loaded before they can be used. We can use our R script to install these packages using the `reticulate` function `py_install()`.
-
-On a lower line of your R script, type:
-
-```
-py_install(c("pandas", "seaborn", "matplotlib"))
-```
-
-This should install the most commonly used data science and plotting packages used in Python. If you ever have trouble with a package loading, or you need to install a new package, we can come back and rerun or modify this script. 
-
-::::: callout
-
-## Note for Python Users
-
-Even if you are a Python user who already has these packages installed, you will need to install them again using py_install. This is because `reticulate` creates a virtual environment to run Python from R, so it doesn't interfere with the instance of Python running on your main machine.
-:::::
-
-
-### Testing Your Installation
-
-Now, open a new file, but instead of opening an R script, scroll down and create a Python script. Name it "test_install.py". In the file, type the following code:
-
-```
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
-
-print("Hello world")
-```
-
-Raise your hand if you run into any errors and we will work through them with you.
-
-
-
 
 
 

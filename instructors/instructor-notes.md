@@ -2,6 +2,13 @@
 title: 'Instructor Notes'
 ---
 
+5/7 Schedule:
+  - 9:15: Troubleshooting reticulate
+  - 9:35: Feedback on flyers
+  - 10: Physical Act of Teaching
+  - 10:45: Break
+  - 11:15: Live Coding
+
 5/6 Schedule:
   - 9:15: Last week review
   - 9:30: Feedback on flyers
