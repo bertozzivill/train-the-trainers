@@ -69,8 +69,10 @@ episodes:
 - week-1-review.md
 - crafting-content.md # lesson-dev
 - equity-inclusion-accessibility.md # instructor
-# - live-coding.md # instructor
+- physically-teaching.md # ABV
+- live-coding.md # instructor
 # - evaluating-curriculum.md
+
 # todo: conclusion/things we didn't have time for
 # - skill-with-feedback.md # instructor-- maybe not time
 # - expertise-instruction.md # instructor-- might not need
