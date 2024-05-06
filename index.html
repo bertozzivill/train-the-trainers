@@ -472,16 +472,83 @@ RStudio</a> installed (see below).</li>
 making plots in either language.</li>
 </ul></section><section id="software-setup"><h2 class="section-heading">Software Setup<a class="anchor" aria-label="anchor" href="#software-setup"></a>
 </h2>
-<hr class="half-width"><div class="section level3">
+<hr class="half-width"><p>Please make sure you have a stable internet connection, then follow
+these steps:</p>
+<div class="section level3">
 <h3 id="r-and-rstudio">R and RStudio<a class="anchor" aria-label="anchor" href="#r-and-rstudio"></a></h3>
 <p>If you have not already done so, please follow the <a href="https://bertozzivill.github.io/r-install-instructions" class="external-link">R setup
 instructions</a> to download or update your R and RStudio.</p>
+<p>This is a mixed course, with participants who are most comfortable in
+either Python or R. In order to run R scripts, everyone should have
+downloaded and installed R and RStudio yesterday. And luckily, RStudio
+can also function as a development environment for Python, so we
+shouldn’t need to download Python separately. What we will need to do is
+install the R package that will help us run Python, as well as a few
+Python packages.</p>
 </div>
 <div class="section level3">
-<h3 id="reticulate-for-rstudio">Reticulate for RStudio<a class="anchor" aria-label="anchor" href="#reticulate-for-rstudio"></a></h3>
-<p>We will also need to download a few packages so that we can run
-Python from RStudio. To make this possible, install the
-<code>reticulate</code> package into your RStudio.</p>
+<h3 id="r-packages-needed">R Packages Needed<a class="anchor" aria-label="anchor" href="#r-packages-needed"></a></h3>
+<p>Please make sure you have installed the <code>tidyverse</code>
+package in R by running the the
+<code>install.packages("tidyverse")</code> in the console.</p>
+</div>
+<div class="section level3">
+<h3 id="reticulate"><code>reticulate</code><a class="anchor" aria-label="anchor" href="#reticulate"></a></h3>
+<p>You can run Python code from an R session using an R package called
+<code>reticulate</code>. Make sure you have <code>reticulate</code>
+installed, either using the GUI or by running
+<code>install.packages("reticulate")</code> from the RStudio
+console.</p>
+<p>Now, open a new R script and name it “install_python_packages.R”. On
+the first line, type <code><a href="https://rstudio.github.io/reticulate/" class="external-link">library(reticulate)</a></code>.</p>
+</div>
+<div class="section level3">
+<h3 id="python-packages">Python packages<a class="anchor" aria-label="anchor" href="#python-packages"></a></h3>
+<p>Like R, Python has a robust system of libraries that need to be
+installed and loaded before they can be used. We can use our R script to
+install these packages using the <code>reticulate</code> function
+<code>py_install()</code>.</p>
+<p>On a lower line of your R script, type:</p>
+<pre><code><span><span class="fu">py_install</span><span class="op">(</span><span class="fu">c</span><span class="op">(</span><span class="st">"pandas"</span>, <span class="st">"streamlit"</span>, <span class="st">"matplotlib"</span><span class="op">)</span><span class="op">)</span></span></code></pre>
+<p>This should install the packages you will need to use in Python for
+this session. If you ever have trouble with a package loading, or you
+need to install a new package, we can come back and rerun or modify this
+script.</p>
+</div>
+<div class="section level3">
+<h3 id="test-your-installation">Test your installation<a class="anchor" aria-label="anchor" href="#test-your-installation"></a></h3>
+<p>From the top menu bar, select, “Session/New Session”. A new R session
+will open. Check the label in the top right of the session:</p>
+<figure><img src="fig/rstudio_project.png" class="figure mx-auto d-block"></figure><p>If it does not say “Project: (None)”, you need to close the project
+you’re in. Click on the label and select “Close Project”. It should now
+say “Project: (None)” in the corner.</p>
+<p>Open a new <strong>Python script</strong> by going to File/New
+File/Python Script in the menu bar. Name it “test_python.py”. Write the
+following:</p>
+<pre><code>import pandas as pd
+import matplotlib.pyplot as plt
+import streamlit as st
+
+d = {'col1': [1, 2], 'col2': [3, 4]}
+df = pd.DataFrame(data=d)</code></pre>
+<p>Try running this code and see if it throws any errors. If it does,
+email Amelia at <a href="mailto:amelia.bertozzi-villa@gatesfoundation.org" class="email">amelia.bertozzi-villa@gatesfoundation.org</a>.</p>
+<div id="note-for-python-users" class="callout">
+<div class="callout-square">
+<i class="callout-icon" data-feather="bell"></i>
+</div>
+<div id="note-for-python-users" class="callout-inner">
+<h3 class="callout-title">Note for Python Users<a class="anchor" aria-label="anchor" href="#note-for-python-users"></a>
+</h3>
+<div class="callout-content">
+<p>Even if you are a Python user who already has these packages
+installed, you will need to install them again using py_install. This is
+because <code>reticulate</code> creates a virtual environment to run
+Python from R, so it doesn’t interfere with the instance of Python
+running on your main machine.</p>
+</div>
+</div>
+</div>
 </div>
 </section><section id="acknowledgment"><h2 class="section-heading">Acknowledgment<a class="anchor" aria-label="anchor" href="#acknowledgment"></a>
 </h2>
@@ -543,8 +610,8 @@ any links that you are not going to use.
   "url": "https://bertozzivill.github.io/train-the-trainers/index.html",
   "identifier": "https://bertozzivill.github.io/train-the-trainers/index.html",
   "dateCreated": "2024-03-26",
-  "dateModified": "2024-05-05",
-  "datePublished": "2024-05-05"
+  "dateModified": "2024-05-06",
+  "datePublished": "2024-05-06"
 }
 
   </script><script>
