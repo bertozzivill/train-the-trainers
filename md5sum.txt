@@ -17,6 +17,6 @@
 "episodes/equity-inclusion-accessibility.md" "30b7d56a788b35514cdff54a8ad6a172" "site/built/equity-inclusion-accessibility.md" "2024-05-05"
 "instructors/instructor-notes.md" "d4214d3473d556fd28e986be9238434b" "site/built/instructor-notes.md" "2024-05-05"
 "learners/reference.md" "d9e99adf7a766566f1b8bbaaaea1b660" "site/built/reference.md" "2024-04-30"
-"learners/setup.md" "ec1d2c75c09f6fa09c16908075aafa3c" "site/built/setup.md" "2024-05-05"
+"learners/setup.md" "73fb326c3a9e83b14eb3f3d4fe213176" "site/built/setup.md" "2024-05-06"
 "profiles/learner-profiles.md" "60b93493cf1da06dfd63255d73854461" "site/built/learner-profiles.md" "2024-03-12"
 "renv/profiles/lesson-requirements/renv.lock" "22cb5625b7367be1f8787d98ded05634" "site/built/renv.lock" "2024-04-09"
