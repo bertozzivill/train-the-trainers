@@ -155,17 +155,69 @@ Before joining this training, participants should:
 
 ## Software Setup
 
+Please make sure you have a stable internet connection, then follow these steps:
+
 ### R and RStudio
 
 If you have not already done so, please follow the [R setup
 instructions](https://bertozzivill.github.io/r-install-instructions) to
 download or update your R and RStudio.
 
-### Reticulate for RStudio
+This is a mixed course, with participants who are most comfortable in either Python or R. In order to run R scripts, everyone should have downloaded and installed R and RStudio yesterday. And luckily, RStudio can also function as a development environment for Python, so we shouldn't need to download Python separately. What we will need to do is install the R package that will help us run Python, as well as a few Python packages.
 
-We will also need to download a few packages so that we can run Python
-from RStudio. To make this possible, install the `reticulate` package
-into your RStudio.
+### R Packages Needed
+Please make sure you have installed the `tidyverse` package in R by running the the `install.packages("tidyverse")` in the console. 
+
+
+### `reticulate`
+You can run Python code from an R session using an R package called `reticulate`. Make sure you have `reticulate` installed, either using the GUI or by running `install.packages("reticulate")` from the RStudio console. 
+
+Now, open a new R script and name it "install_python_packages.R". On the first line, type `library(reticulate)`.
+
+### Python packages
+Like R, Python has a robust system of libraries that need to be installed and loaded before they can be used. We can use our R script to install these packages using the `reticulate` function `py_install()`.
+
+On a lower line of your R script, type:
+
+```
+py_install(c("pandas", "streamlit", "matplotlib"))
+```
+
+This should install the packages you will need to use in Python for this session. If you ever have trouble with a package loading, or you need to install a new package, we can come back and rerun or modify this script. 
+
+
+### Test your installation
+
+From the top menu bar, select, "Session/New Session". A new R session will open. Check the label in the top right of the session:
+
+![](fig/rstudio_project.png)
+
+
+If it does not say "Project: (None)", you need to close the project you're in. Click on the label and select "Close Project". It should now say "Project: (None)" in the corner.
+
+Open a new **Python script** by going to File/New File/Python Script in the menu bar. Name it "test_python.py". Write the following: 
+
+```
+import pandas as pd
+import matplotlib.pyplot as plt
+import streamlit as st
+
+d = {'col1': [1, 2], 'col2': [3, 4]}
+df = pd.DataFrame(data=d)
+```
+
+Try running this code and see if it throws any errors. If it does, email Amelia at amelia.bertozzi-villa@gatesfoundation.org.
+
+
+::::: callout
+
+## Note for Python Users
+
+Even if you are a Python user who already has these packages installed, you will need to install them again using py_install. This is because `reticulate` creates a virtual environment to run Python from R, so it doesn't interfere with the instance of Python running on your main machine.
+:::::
+
+
+
 
 ## Acknowledgment
 
