@@ -71,7 +71,8 @@ episodes:
 - equity-inclusion-accessibility.md # instructor
 - physically-teaching.md # ABV
 - live-coding.md # instructor
-# - evaluating-curriculum.md
+- evaluating-curricula.md # ABV
+- conclusion.md
 
 # todo: conclusion/things we didn't have time for
 # - skill-with-feedback.md # instructor-- maybe not time
