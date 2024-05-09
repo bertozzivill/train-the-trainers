@@ -19,6 +19,10 @@ will be recorded if you are unable to join in-person or online.
 Before we begin, please take a moment to fill out the [pre-course
 survey](https://forms.gle/1eyZ96SjfWD9SLvc9){target="_blank"}.
 
+### Post-Course Survey
+
+Before you leave the room on the last day of the course, please take a few minutes to fill out the [post-course survey](https://forms.gle/he7CDQ2KXSjdMpkm9){target="_blank"}.
+
 ### Schedule (Subject to Change)
 
 +-----------------+----------------------+---------------------+
@@ -63,7 +67,7 @@ survey](https://forms.gle/1eyZ96SjfWD9SLvc9){target="_blank"}.
 |                 | Equity, Inclusion, & |                     |
 |                 | Accessibility        |                     |
 +-----------------+----------------------+---------------------+
-| Tuesday May 7   | The Physical Act of  | dLab                |
+| Tuesday May 7   | The Physical Act of  | Unavailable         |
 |                 | Teaching             |                     |
 |                 |                      |                     |
 |                 | How to Code Live     |                     |
@@ -75,6 +79,9 @@ survey](https://forms.gle/1eyZ96SjfWD9SLvc9){target="_blank"}.
 +-----------------+----------------------+---------------------+
 | Friday May 10   | Live Coding          | dLab                |
 |                 | Reflections          |                     |
+|                 |                      |                     |
+|                 | Refining our         |                     |
+|                 | Curricula            |                     |
 |                 |                      |                     |
 |                 | Conclusion           |                     |
 +-----------------+----------------------+---------------------+
