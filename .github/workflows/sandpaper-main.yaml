@@ -39,6 +39,9 @@ jobs:
         with:
           use-public-rspm: true
           install-r: false
+      - name: Install remotes
+        run: |
+          Rscript -e 'install.packages("remotes", repos = "https://cloud.r-project.org")'
 
       - name: "Set up Pandoc"
         uses: r-lib/actions/setup-pandoc@v2
